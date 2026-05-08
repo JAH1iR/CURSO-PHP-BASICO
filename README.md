@@ -1,6 +1,6 @@
 ## 📂 Contenido del Repositorio
 
-El código está organizado por temas lógicos para facilitar el repaso:
+El código está organizado por temas lógicos para facilitar el repaso tener en cuenta el uso del xampp:
 
 - **`/arreglos`**: Manejo de arrays (indexados y asociativos). 👈 *¡Nueva!*
 - **`/bucles-while`**: Estructuras de repetición y ciclos.
